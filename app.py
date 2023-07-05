@@ -4,7 +4,7 @@ Created on Tue Jul  5 11:32:35 2022
 
 @author: varsh
 """
-
+pip install yfinance 
 import pandas as pd 
 import numpy as np 
 import yfinance as yf 
